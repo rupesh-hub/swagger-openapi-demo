@@ -1,0 +1,5 @@
+springdoc:
+  api-docs:
+    path: /doc-openapi
+server:
+  port: 8181
